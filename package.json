@@ -1,6 +1,6 @@
 {
   "name": "netlify-plugin-lunr-indexer",
-  "version": "0.0.1",
+  "version": "1.0.0-0",
   "description": "Netlify Build plugin - Netlify plugin to create an index file for Lunr Javascript search engine based on JSON file contents",
   "type": "module",
   "exports": "./src/index.js",
